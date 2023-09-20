@@ -18,11 +18,11 @@ Locate and choose the blueprint titled “Blueprint for generating a response fr
 ![2](https://github.com/panwar100/Protected-Website-using-S3-Lambda-CloudFront/assets/134361823/e81c7f3d-82d5-4dd4-8c8e-6a12e1f6e067)
 * Name the role as per your preference. Next, choose the “Basic Lambda@Edge permissions (for CloudFront trigger)” from the Policy Templates, and finally, click “Create function” following these steps.
  ![3](https://github.com/panwar100/Protected-Website-using-S3-Lambda-CloudFront/assets/134361823/cf2ee07c-4664-437e-b804-05fb353d12a2)
-* After creating your Lambda function, follow these steps:
-`1.Copy the provided code in file index.js
-2.Open the “index.js” file in the Function Code section.
-3.Replace the values of the authUser and authPass variables with the desired username and password.
-4.Save your changes by clicking the “Save” button.`
+* ### After creating your Lambda function, follow these steps:
+* 1.Copy the provided code in file index.js
+* 2.Open the “index.js” file in the Function Code section.
+* 3.Replace the values of the authUser and authPass variables with the desired username and password.
+* 4.Save your changes by clicking the “Save” button.`
   ![4](https://github.com/panwar100/Protected-Website-using-S3-Lambda-CloudFront/assets/134361823/c36d40c0-0292-4f87-b5b0-a56e6a5b555d)
 * Proceed by clicking on “Test,” then configure the Test Event, naming it “TestEvent,” and finally, save the configuration.
  ![5](https://github.com/panwar100/Protected-Website-using-S3-Lambda-CloudFront/assets/134361823/8c5713ae-a626-45f6-baa4-ae180c67f07b)
@@ -60,7 +60,10 @@ Locate and choose the blueprint titled “Blueprint for generating a response fr
 <p align="center">
   <img src="https://github.com/panwar100/Protected-Website-using-S3-Lambda-CloudFront/assets/134361823/7de51f34-20c9-4250-a664-e9ee965a61ee" alt="Congratulations" />
 </p>
-Congratulations, you have successfully accomplished and completed this task!
+<p align="center">
+  Congratulations, you have successfully accomplished and completed this task!
+</p>
+
 
 
 
