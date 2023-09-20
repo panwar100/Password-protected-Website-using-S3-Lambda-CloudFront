@@ -57,8 +57,9 @@ Locate and choose the blueprint titled “Blueprint for generating a response fr
 * Test the website thoroughly to ensure the password protection is working as expected.
 ![14](https://github.com/panwar100/Protected-Website-using-S3-Lambda-CloudFront/assets/134361823/63f18fec-9ac1-48c4-bb52-127af8485a17)
 ![15](https://github.com/panwar100/Protected-Website-using-S3-Lambda-CloudFront/assets/134361823/66a59b38-6847-48b2-b150-93e93a64513e)
-
-![162b41786d99b9d7e7b03549c4e19ae2_w200](https://github.com/panwar100/Protected-Website-using-S3-Lambda-CloudFront/assets/134361823/7de51f34-20c9-4250-a664-e9ee965a61ee)
+<p align="center">
+  <img src="https://github.com/panwar100/Protected-Website-using-S3-Lambda-CloudFront/assets/134361823/7de51f34-20c9-4250-a664-e9ee965a61ee" alt="Congratulations" />
+</p>
 Congratulations, you have successfully accomplished and completed this task!
 
 
