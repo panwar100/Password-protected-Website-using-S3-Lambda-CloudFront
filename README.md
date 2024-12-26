@@ -1,4 +1,5 @@
 # Protected-Website-using-S3-Lambda-CloudFront
+This readme describes the steps to create a password-protected website using S3, Lambda@Edge, and CloudFront.
 ![0](https://github.com/panwar100/Protected-Website-using-S3-Lambda-CloudFront/assets/134361823/a6aa9ac8-9a18-4ab3-b0c1-32cc4cf36445)
 ### Step 1: Create an S3 Bucket for Your Website (Private)
 * Log in to the AWS Management Console.
